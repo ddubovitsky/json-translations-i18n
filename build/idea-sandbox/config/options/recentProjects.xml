@@ -1,0 +1,43 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Pictures" />
+        <option value="$USER_HOME$/denis/projects/pet/AndroidStrings3" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Pictures" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Pictures" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Pictures">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.16" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542789045219" />
+              <option name="buildTimestamp" value="1541503393715" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/denis/projects/pet/AndroidStrings3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.16" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542670243204" />
+              <option name="buildTimestamp" value="1541503412783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
