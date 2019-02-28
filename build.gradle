@@ -21,6 +21,7 @@ sourceCompatibility = 1.8
 
 intellij {
     version '2018.2.6'
+    updateSinceUntilBuild false
 }
 patchPluginXml {
     changeNotes """

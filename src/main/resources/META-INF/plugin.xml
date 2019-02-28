@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>ddubovitsky.AndroidStrings</id>
-    <name>Plugin display name here</name>
+    <name>I18N Edtor</name>
     <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 
     <description><![CDATA[

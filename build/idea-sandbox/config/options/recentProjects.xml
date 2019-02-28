@@ -2,16 +2,17 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/denis/projects/work/web-ui" />
         <option value="$USER_HOME$/Pictures" />
         <option value="$USER_HOME$/denis/projects/pet/AndroidStrings3" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Pictures" />
+        <option value="$USER_HOME$/denis/projects/work/web-ui" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Pictures" />
+    <option name="lastPath" value="$USER_HOME$/denis/projects/work/web-ui" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -21,8 +22,8 @@
               <option name="build" value="IC-182.5107.16" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1542789045219" />
-              <option name="buildTimestamp" value="1541503393715" />
+              <option name="projectOpenTimestamp" value="1544185698222" />
+              <option name="buildTimestamp" value="1541503428707" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -34,6 +35,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1542670243204" />
               <option name="buildTimestamp" value="1541503412783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/denis/projects/work/web-ui">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.16" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547739618489" />
+              <option name="buildTimestamp" value="1541503438690" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

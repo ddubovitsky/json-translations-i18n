@@ -41,7 +41,7 @@ class JsonMerger() {
     val result: HashMap<String, Any> = hashMapOf()
 
     fun loadJson(path: String, names: List<String>): HashMap<String, Any> {
-        System.out.println("gettin");
+//        System.out.println("gettin");
         for ((index, name) in names.withIndex()) {
             getMap(index, "", result, JsonParser().parse(FileReader(File("$path/$name.json"))))
         }
@@ -56,17 +56,20 @@ class JsonMerger() {
             for ((key, value) in jsonObject.entrySet()) {
                 if (value.isJsonObject) {
                     val objectNode = parent.get(key) ?: hashMapOf<String, Any>()
+                    if (objectNode is ArrayList<*>) {
+                        return;
+                    }
                     objectNode as HashMap<String, Any>
-                    System.out.println("System called")
+//                    System.out.println("System called")
                     parent.set(key, objectNode)
                     getMap(position, "" + path + "/" + key, objectNode, value)
                 }
                 if (value.isJsonPrimitive) {
-                    System.out.println("System primitive")
-                    System.out.println(value.asJsonPrimitive.asString)
-                    System.out.println(parent.get(key).toString())
+//                    System.out.println("System primitive")
+//                    System.out.println(value.asJsonPrimitive.asString)
+//                    System.out.println(parent.get(key).toString())
                     val listnode = parent.get(key) ?: arrayListOf<String>()
-                    System.out.println(listnode)
+//                    System.out.println(listnode)
                     if (listnode is HashMap<*, *>) {
                         return;
                     }
